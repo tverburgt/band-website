@@ -1,0 +1,71 @@
+/*
+  Add Custom Styles Here
+*/
+
+body{
+  background-color: #151515;
+  width: 100%;
+  margin-left: 0%;
+  margin-top: 0%;
+}
+
+
+
+/* Contact us post on home page */
+#post-65{
+  display: flex;
+  /* Horizontally */
+  justify-content: center;
+  /* Vertically  */
+  align-items: center;        
+  background-color: rgb(122, 110, 110);
+  height: 150px;
+  font-family: Lobster;
+}
+/* Contact to us button on home page */
+#post-65 .wp-block-button__link{
+  background-color: rgb(43, 139, 5);
+  width: 300px;
+}
+
+
+/* Videos on home page */
+#post-29{
+  background-color: #151515;
+}
+
+
+
+
+
+/* Subscribe to us post on home page */
+#post-68{
+  display: flex;
+  flex-direction: column;
+  /* Horizontally */
+  justify-content: center;
+  /* Vertically  */
+  align-items: center;        
+  background-color: rgb(122, 110, 110);
+  height: 150px;
+  font-family: Lobster;
+}
+
+/* Subscribe to us button on home page */
+#post-68 .wp-block-button__link{
+  background-color: rgb(207, 9, 9);
+  width: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
